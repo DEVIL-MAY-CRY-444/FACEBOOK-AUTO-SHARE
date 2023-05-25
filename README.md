@@ -15,9 +15,29 @@ This is the most powerful Facebook Share tool that Automatically Share  Your Pos
 
 Install my-project with npm
 
-```bash
-  npm install my-project
-  cd my-project
+```
+
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+pkg install python
+
+pip install colorama
+
+pip install bs4
+
+pip install requests
+
+pip install rich
+
+git clone https://github.com/DEVIL-MAY-CRY-444/FACEBOOK-AUTO-SHARE
+
+cd FACEBOOK AUTO SHARE
+
+python VIP-SHARE.py
 ```
     
 ## Screenshots Step 1
