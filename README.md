@@ -37,7 +37,7 @@ git clone https://github.com/DEVIL-MAY-CRY-444/FACEBOOK-AUTO-SHARE
 
 cd FACEBOOK AUTO SHARE
 
-python vip-share.py
+python DMC-VIP-SHARE.py
 ```
     
 ## Screenshots Step 1
